@@ -1,0 +1,13 @@
+bbbb655f6e415890eb4c93f72a6e72bb *DESCRIPTION
+c0d5a24fab6f834d331fef98fe8284d6 *NAMESPACE
+290b80c3213a70a6e84b6e69bbc9b152 *R/checks.R
+3e851173bd3b5961ab8c553201a3befc *R/combine_data.R
+657b9d81a967ddb8783d2da9460a4844 *R/generic.R
+4e5cbe17c88ffbe3ffe970dbe943cf82 *R/prep_bw_data.R
+b190098b16de80cd5f873fca8f94dcd6 *R/prep_exp_data.R
+b85ef5de3eb7e0cce2bb5977f3a65470 *R/time_lock_bioware.R
+c14699fa9de8661fb778c395659f6608 *R/tools.R
+c6d549e93ef4ac2f408e13f505b8e124 *man/combine_data.Rd
+ca4b93ad2cb1bc3da73401eb4e81fff3 *man/prep_exp_data.Rd
+2869790020b3e7daba7dd07b1d0d7be4 *man/segment_fp_data.Rd
+fb4c5ccc79b121da9a0a4691032341dc *man/time_lock_fp_data.Rd
