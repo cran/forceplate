@@ -1,6 +1,6 @@
 Package: forceplate
 Title: Processing Force-Plate Data
-Version: 1.1-0
+Version: 1.1-1
 Authors@R: 
     c(person("Raphae", "Hartmann", , "raphael.hartmann@protonmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0003-4686-9329")),
       person("Anton", "Koger", , "anton.koger@psych.rwth-aachen.de", role = c("aut", "ctb"), comment = c(ORCID = "0009-0004-6906-5184")),
@@ -16,10 +16,10 @@ License: GPL (>= 2)
 Encoding: UTF-8
 RoxygenNote: 7.3.1
 NeedsCompilation: no
-Packaged: 2024-01-31 11:48:01 UTC; hartmann
+Packaged: 2024-02-23 14:13:34 UTC; hartmann
 Author: Raphae Hartmann [aut, cre] (<https://orcid.org/0000-0003-4686-9329>),
   Anton Koger [aut, ctb] (<https://orcid.org/0009-0004-6906-5184>),
   Leif Johannsen [ctb]
 Maintainer: Raphae Hartmann <raphael.hartmann@protonmail.com>
 Repository: CRAN
-Date/Publication: 2024-01-31 12:20:02 UTC
+Date/Publication: 2024-02-23 14:50:02 UTC
