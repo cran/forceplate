@@ -4,13 +4,29 @@
 \alias{combine_data}
 \title{Combine Data Tables}
 \usage{
-combine_data(dt1, dt2)
+combine_data(
+  dt1,
+  dt2,
+  by = list(subj = "subj", block = "block", trial = "trial"),
+  continuous = FALSE
+)
 }
 \arguments{
 \item{dt1}{A \code{data.table} of the class \code{fp.segm}, \code{fp.tl}, or \code{exp.prep}.}
 
 \item{dt2}{A \code{data.table} of the class \code{fp.segm}, \code{fp.tl}, or \code{exp.prep}. Make
 sure the two data.table have either the same number of rows or the same columns.}
+
+\item{by}{A list of three variable names in the experimental data that reflect the
+subj (subject number), block (block number), and trial (trial number) in the
+force-plate data. This argument is only necessary for combining experimental
+data with force-plate data.}
+
+\item{continuous}{A logical value. Default is \code{FALSE}, meaning the variable for
+the trials in the used experimental data.table counts for each block separately,
+that is in each block it counts from 1 to the number of trials in that block. If
+\code{TRUE} it is assumed that the trials are counted from 1 to the total number
+of trials of a subject.}
 }
 \value{
 A \code{data.table} either of the same class as \code{dt1} and \code{dt2}, if they
