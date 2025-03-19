@@ -1,13 +1,13 @@
-bc2b4785044b1ab8a32c6d701404009b *DESCRIPTION
+23bb50fc450e4f830130c89c5a4a8c46 *DESCRIPTION
 a30cb2d78cee67b5f54462f1fcaa9209 *NAMESPACE
 f40e41fe7670b2aa5443a513c767c027 *R/checks.R
 a0d4ec2fe55a618c399fdec499286cf2 *R/combine_data.R
 657b9d81a967ddb8783d2da9460a4844 *R/generic.R
 b190098b16de80cd5f873fca8f94dcd6 *R/prep_exp_data.R
-e84cf6de5f9eaca425c2c2e53ba4f0a9 *R/segment_fp_data.R
+f8dd2f64f586e0525b2f8fb3d45ccc36 *R/segment_fp_data.R
 63a1e1b8e5980478dee1c8d494424031 *R/time_lock_stats.R
 6c715ad29de581c0243c3bc1737968b2 *R/tools.R
 9873f4535157bdee3e97f9d4700df0f6 *man/combine_data.Rd
 ca4b93ad2cb1bc3da73401eb4e81fff3 *man/prep_exp_data.Rd
-e0c3f8f3defc69932407e28ff87d25e7 *man/segment_fp_data.Rd
+26ccd28f6d9a7632742d68bdee8e5dc5 *man/segment_fp_data.Rd
 1e954ca109aa6f99332c61b65a72bfc0 *man/time_lock_stats.Rd
